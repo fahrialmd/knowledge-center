@@ -1,5 +1,5 @@
 # Purpose
-Display internal table as ALV using CL_SALV_TABLE
+Display internal table as ALV using CL_GUI_ALV_GRID
 # Reference
 1. N/A
 # Implementation

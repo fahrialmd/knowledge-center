@@ -40,12 +40,10 @@
   "Programming/ABAP/ALV/002 ALV Column Customization.md": "LiFileText",
   "Programming/ABAP/ALV/003 ALV Aggregations.md": "LiFileText",
   "Programming/ABAP/ALV/004 ALV Hotspot Event.md": "LiFileText",
-  "Programming/ABAP/ALV/005 ALV Click Event.md": "LiFileText",
-  "Programming/ABAP/ALV/006 ALV Cell Value Help Event.md": "LiFileText",
-  "Programming/ABAP/ALV/007 ALV Toolbar Button.md": "LiFileText",
-  "Programming/ABAP/ALV/008 ALV Toolbar Dropdown.md": "LiFileText",
   "Programming/ABAP/ALV/009 ALV Editable Cell.md": "LiFileText",
   "Programming/ABAP/ALV/010 ALV Row Selection.md": "LiFileText",
   "Programming/ABAP/ALV/011 ALV Field Catalog Manipulation.md": "LiFileText",
-  "Programming/000 Template.md": "LiFileText"
+  "Programming/000 Template.md": "LiFileText",
+  "Programming/ABAP/ALV/007 ALV Toolbar Button Event.md": "LiFileText",
+  "Programming/ABAP/ALV/008 ALV Toolbar Dropdown Event.md": "LiFileText"
 }
