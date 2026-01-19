@@ -1,15 +1,16 @@
 # Purpose
 Display internal table as ALV using CL_SALV_TABLE
+# Reference
+1. N/A
 # Implementation
 ## 1. Preparation
 Simple report example querying data from `EKKO` table
 ```ABAP
-REPORT Z47825001ALV.
 
 PARAMETERS: p_bukrs TYPE ekko-bukrs OBLIGATORY.  
   
 DATA: gt_ekko TYPE STANDARD TABLE OF ekko,  
-      lo_alv  TYPE REF TO cl_salv_table.  
+      go_alv  TYPE REF TO cl_salv_table.  
   
 START-OF-SELECTION.  
   
@@ -39,32 +40,40 @@ START-OF-SELECTION.
   
   PERFORM frm_get_data.  
   
-  PERFORM frm_show_alv. 
+  PERFORM frm_alv_init.  
+  
+  PERFORM frm_alv_show.
 ...  
 ```
 Subroutine to show simple ALV 
 ```ABAP
-FORM frm_show_alv .  
+FORM frm_alv_init .  
   " Display ALV  
   TRY.  
       cl_salv_table=>factory(  
         IMPORTING  
-          r_salv_table = lo_alv  
+          r_salv_table = go_alv  
         CHANGING  
           t_table      = gt_ekko ).  
   
       " Enable all standard functions (toolbar buttons)  
-      lo_alv->get_functions( )->set_all( ).  
-  
-      " Optimize column width  
-      lo_alv->get_columns( )->set_optimize( ).  
-  
-      " Display the ALV  
-      lo_alv->display( ).  
+      go_alv->get_functions( )->set_all( ).  
   
     CATCH cx_salv_msg INTO DATA(lx_msg).  
       MESSAGE lx_msg->get_text( ) TYPE 'E'.  
   ENDTRY.  
+ENDFORM.
+```
+```ABAP
+FORM frm_alv_show.  
+  
+  TRY.  
+      " Display  
+      go_alv->display( ).  
+    CATCH cx_salv_msg INTO DATA(lx_msg).  
+      MESSAGE lx_msg->get_text( ) TYPE 'E'.  
+  ENDTRY.  
+  
 ENDFORM.
 ```
 # Result
