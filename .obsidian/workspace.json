@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ccb1450bef353b26",
+        "id": "ba6de7c5ae1849a8",
         "type": "tabs",
         "children": [
           {
-            "id": "55d919becfc757b6",
+            "id": "b871da2d46892330",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/ABAP/ALV/007 ALV Toolbar Button Event.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "007 ALV Toolbar Button Event"
+              "title": "New tab"
             }
           }
         ]
@@ -194,25 +190,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55d919becfc757b6",
+  "active": "7851e74c9d699c96",
   "lastOpenFiles": [
-    "Pasted image 20260119164821.png",
-    "Pasted image 20260119164812.png",
-    "Pasted image 20260119162103.png",
+    "Programming/ABAP/ALV/007 ALV Toolbar Button Event.md",
+    "Programming/ABAP/ALV/Assets/Pasted image 20260119164821.png",
+    "Programming/ABAP/ALV/Assets/Pasted image 20260119164812.png",
+    "Programming/ABAP/ALV/Assets/Pasted image 20260119162103.png",
     "Programming/ABAP/ALV/008 ALV Toolbar Dropdown Event.md",
     "Programming/ABAP/ALV/011 ALV Field Catalog Manipulation.md",
     "Programming/ABAP/ALV/010 ALV Row Selection.md",
     "Programming/ABAP/ALV/009 ALV Editable Cell.md",
-    "Programming/ABAP/ALV/007 ALV Toolbar Button Event.md",
     "Programming/ABAP/ALV/004 ALV Hotspot Event.md",
     "Programming/ABAP/ALV/005 ALV Cell Click Event.md",
-    "Pasted image 20260119152156.png",
-    "Pasted image 20260119152140.png",
-    "Pasted image 20260119152130.png",
+    "Programming/ABAP/ALV/Assets/Pasted image 20260119152156.png",
+    "Programming/ABAP/ALV/Assets/Pasted image 20260119152140.png",
+    "Programming/ABAP/ALV/Assets/Pasted image 20260119152130.png",
     "Programming/ABAP/ALV/001 ALV Quickstart.md",
     "Programming/ABAP/ALV/003 ALV Aggregations.md",
     "Programming/ABAP/ALV/006 ALV Cell Value Help Event.md",
-    "Pasted image 20260119135534.png",
+    "Programming/ABAP/ALV/Assets/Pasted image 20260119135534.png",
     "Programming/ABAP/ALV/002 ALV Column Customization.md",
     "Programming/000 Template.md",
     "Programming/ABAP/ALV/Assets/Pasted image 20260119114504.png",
