@@ -11,14 +11,12 @@
             "id": "0171583da54c010c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Programming/ABAP/ALV/001 ALV Quickstart.md",
-                "mode": "source",
-                "source": false
+                "file": "Programming/ABAP/ALV/Assets/Pasted image 20260119102202.png"
               },
-              "icon": "lucide-file",
-              "title": "001 ALV Quickstart"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260119102202"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/ABAP/ALV/001 ALV Quickstart.md",
+                "file": "Programming/ABAP/ALV/Assets/Pasted image 20260119102202.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 001 ALV Quickstart"
+              "title": "Backlinks for Pasted image 20260119102202"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/ABAP/ALV/001 ALV Quickstart.md",
+                "file": "Programming/ABAP/ALV/Assets/Pasted image 20260119102202.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 001 ALV Quickstart"
+              "title": "Outgoing links from Pasted image 20260119102202"
             }
           },
           {
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/ABAP/ALV/001 ALV Quickstart.md",
+                "file": "Programming/ABAP/ALV/Assets/Pasted image 20260119102202.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 001 ALV Quickstart"
+              "title": "Outline of Pasted image 20260119102202"
             }
           },
           {
@@ -194,14 +192,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0171583da54c010c",
+  "active": "7851e74c9d699c96",
   "lastOpenFiles": [
+    "Programming/ABAP/ALV/Assets/Pasted image 20260119102145.png",
+    "Programming/ABAP/ALV/Assets/Pasted image 20260119102202.png",
+    "Programming/ABAP/ALV/001 ALV Quickstart.md",
     "Programming/ABAP/ALV/Assets",
-    "Pasted image 20260119102202.png",
-    "Pasted image 20260119102145.png",
     "Programming/ABAP/Untitled",
     "2026-01-19.md",
-    "Programming/ABAP/ALV/001 ALV Quickstart.md",
     "Untitled.canvas",
     "Programming/ABAP/ALV",
     "Untitled.base",
