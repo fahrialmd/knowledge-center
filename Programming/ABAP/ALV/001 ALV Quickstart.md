@@ -68,5 +68,4 @@ FORM frm_show_alv .
 ENDFORM.
 ```
 # Result
-![[Pasted image 20260119102145.png]]
-![[Pasted image 20260119102202.png]]
+![[Pasted image 20260119102145.png]]![[Pasted image 20260119102202.png]]
