@@ -209,10 +209,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1155e3be33ae96a",
+  "active": "7851e74c9d699c96",
   "lastOpenFiles": [
-    "Programming/CAP/Java/002 CAP Java Hybrid Testing.md",
     "Programming/CAP/Java/001 CAP Java Quickstart.md",
+    "Programming/ABAP/Syntax/003 ABAP Syntax.md",
+    "Programming/ABAP/Syntax/002 ABAP Syntax COND.md",
+    "Programming/ABAP/Syntax/001 ABAP Syntax FILTER.md",
+    "Programming/CAP/Java/002 CAP Java Hybrid Testing.md",
+    "Programming/ABAP/Syntax",
     "Programming/ABAP/ALV/006 ALV Row Selection.md",
     "Programming/CAP/Java",
     "Programming/CAP/Assets",
@@ -241,7 +245,6 @@
     "README.md",
     "Programming/ABAP/ALV/011 ALV Field Catalog Manipulation 1.md",
     "Programming/ABAP/ALV/Assets",
-    "Programming/ABAP/Untitled",
     "2026-01-19.md",
     "Untitled.canvas",
     "Programming/ABAP/ALV",

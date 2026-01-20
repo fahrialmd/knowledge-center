@@ -45,5 +45,6 @@
   "Programming/ABAP/ALV/006 ALV Row Selection.md": "LiFileText",
   "Programming/CAP": "LiFolder",
   "Programming/CAP/Assets": "LiLaptopMinimal",
-  "Programming/CAP/Java": "LiFolder"
+  "Programming/CAP/Java": "LiFolder",
+  "Programming/ABAP/Syntax": "LiFolder"
 }
