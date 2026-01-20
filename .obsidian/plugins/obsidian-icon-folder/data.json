@@ -42,6 +42,8 @@
   "Programming/ABAP/ALV/004 ALV Hotspot Event.md": "LiFileText",
   "Programming/000 Template.md": "LiFileText",
   "Programming/ABAP/ALV/005 ALV Toolbar Button Event.md": "LiFileText",
-  "Programming/ABAP/ALV/006 ALV Editable Cell.md": "LiFileText",
-  "Programming/ABAP/ALV/007 ALV Row Selection.md": "LiFileText"
+  "Programming/ABAP/ALV/006 ALV Row Selection.md": "LiFileText",
+  "Programming/CAP": "LiFolder",
+  "Programming/CAP/Assets": "LiLaptopMinimal",
+  "Programming/CAP/Java": "LiFolder"
 }
