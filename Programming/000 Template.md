@@ -1,5 +1,4 @@
 # Purpose
-
 # Reference
 # Implementation
 # Result

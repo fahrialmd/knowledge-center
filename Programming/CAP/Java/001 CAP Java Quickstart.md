@@ -12,11 +12,12 @@ npm add -g @sap/cds-dk
 ## 3. Install SAP Machine
 https://sapmachine.io/
 ## 4. Generate CAP Java project
-```bash
+```BASH
 cds init captest --java --java:mvn -DgroupId=customer
 ```
 ## 5. Run application
-```bash
+```BASH
 mvn cds:watch
 ```
 # Result
+![[Pasted image 20260120135401.png]]

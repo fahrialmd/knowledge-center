@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5f0d5f3d4b35d938",
+        "id": "f3ff20fa8250a2d2",
         "type": "tabs",
         "children": [
           {
-            "id": "7eb9eb2feae90a85",
+            "id": "6717035e19ea3368",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/CAP/Java/001 CAP Java Quickstart.md",
+                "file": "Programming/ABAP/Smartforms/002 Smartforms Smartstyle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 CAP Java Quickstart"
-            }
-          },
-          {
-            "id": "e1155e3be33ae96a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/CAP/Java/002 CAP Java Hybrid Testing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "002 CAP Java Hybrid Testing"
+              "title": "002 Smartforms Smartstyle"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,47 +194,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7851e74c9d699c96",
+  "active": "6717035e19ea3368",
   "lastOpenFiles": [
+    "Pasted image 20260126103452.png",
+    "Pasted image 20260126103404.png",
+    "Pasted image 20260126103350.png",
+    "Pasted image 20260126103147.png",
+    "Pasted image 20260126103106.png",
+    "Pasted image 20260126103020.png",
+    "Pasted image 20260126102750.png",
+    "Programming/ABAP/Smartforms/001 Smartforms Quickstart.md",
+    "Programming/ABAP/Smartforms/002 Smartforms Smartstyle.md",
+    "Pasted image 20260126102416.png",
+    "Pasted image 20260126102413.png",
+    "Pasted image 20260126102408.png",
+    "Programming/UI5/001 UI5 Quickstart.md",
+    "Programming/000 Template.md",
+    "Programming/CAP/Java/002 CAP Java Hybrid Testing.md",
     "Programming/CAP/Java/001 CAP Java Quickstart.md",
+    "Programming/ABAP/ALV/006 ALV Row Selection.md",
+    "Programming/ABAP/ALV/Assets/Pasted image 20260120103710.png",
+    "Programming/ABAP/ALV/001 ALV Quickstart.md",
+    "Programming/ABAP/ALV/005 ALV Toolbar Button Event.md",
+    "Programming/ABAP/ALV/004 ALV Hotspot Event.md",
+    "Programming/ABAP/ALV/003 ALV Aggregations.md",
+    "Programming/ABAP/ALV/002 ALV Column Customization.md",
+    "Programming/UI5/Freestyle",
+    "Programming/UI5/List Page",
+    "Programming/UI5/Assets/Untitled",
+    "Programming/UI5/Assets",
+    "Programming/UI5",
+    "Programming/ABAP/Syntax/001 ABAP Syntax FILTER.md",
     "Programming/ABAP/Syntax/003 ABAP Syntax.md",
     "Programming/ABAP/Syntax/002 ABAP Syntax COND.md",
-    "Programming/ABAP/Syntax/001 ABAP Syntax FILTER.md",
-    "Programming/CAP/Java/002 CAP Java Hybrid Testing.md",
+    "Programming/ABAP/Smartforms",
     "Programming/ABAP/Syntax",
-    "Programming/ABAP/ALV/006 ALV Row Selection.md",
     "Programming/CAP/Java",
     "Programming/CAP/Assets",
     "Programming/CAP",
-    "Programming/ABAP/ALV/001 ALV Quickstart.md",
-    "Programming/ABAP/ALV/002 ALV Column Customization.md",
-    "Programming/ABAP/ALV/003 ALV Aggregations.md",
-    "Programming/ABAP/ALV/004 ALV Hotspot Event.md",
-    "Programming/ABAP/ALV/005 ALV Toolbar Button Event.md",
-    "Programming/ABAP/ALV/Assets/Pasted image 20260120085800.png",
-    "Programming/ABAP/ALV/Assets/Pasted image 20260120103710.png",
-    "Programming/ABAP/ALV/Assets/Pasted image 20260120103559.png",
     "Programming/ABAP/ALV/006 ALV Editable Cell.md",
-    "Programming/ABAP/ALV/Assets/Pasted image 20260120091826.png",
-    "Programming/ABAP/ALV/Assets/Pasted image 20260120091815.png",
-    "Programming/ABAP/ALV/Assets/Pasted image 20260120091731.png",
-    "Programming/ABAP/ALV/Assets/Pasted image 20260120091637.png",
-    "Programming/ABAP/ALV/Assets/Pasted image 20260120091635.png",
     "Programming/ABAP/ALV/011 ALV Field Catalog Manipulation.md",
     "Programming/ABAP/ALV/006 ALV Toolbar Dropdown Event.md",
-    "Programming/ABAP/ALV/Assets/Pasted image 20260119135534.png",
-    "Programming/ABAP/ALV/Assets/Pasted image 20260119164821.png",
     "Programming/ABAP/ALV/005 ALV Cell Click Event.md",
     "Programming/ABAP/ALV/006 ALV Cell Value Help Event.md",
-    "Programming/000 Template.md",
     "README.md",
     "Programming/ABAP/ALV/011 ALV Field Catalog Manipulation 1.md",
-    "Programming/ABAP/ALV/Assets",
     "2026-01-19.md",
-    "Untitled.canvas",
-    "Programming/ABAP/ALV",
-    "Untitled.base",
-    "Programming",
-    "Programming/ABAP"
+    "Untitled.canvas"
   ]
 }

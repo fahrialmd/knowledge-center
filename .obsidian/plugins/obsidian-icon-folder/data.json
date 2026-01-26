@@ -46,5 +46,16 @@
   "Programming/CAP": "LiFolder",
   "Programming/CAP/Assets": "LiLaptopMinimal",
   "Programming/CAP/Java": "LiFolder",
-  "Programming/ABAP/Syntax": "LiFolder"
+  "Programming/ABAP/Syntax": "LiFolder",
+  "Programming/ABAP/Syntax/001 ABAP Syntax FILTER.md": "LiFileText",
+  "Programming/ABAP/Syntax/002 ABAP Syntax COND.md": "LiFileText",
+  "Programming/ABAP/Syntax/003 ABAP Syntax.md": "LiFileText",
+  "Programming/CAP/Java/001 CAP Java Quickstart.md": "LiFileText",
+  "Programming/CAP/Java/002 CAP Java Hybrid Testing.md": "LiFileText",
+  "Programming/ABAP/Smartforms": "LiFolder",
+  "Programming/UI5": "LiFolder",
+  "Programming/UI5/Assets": "LiLaptopMinimal",
+  "Programming/UI5/List Page": "LiFolder",
+  "Programming/UI5/Freestyle": "LiFolder",
+  "Programming/UI5/001 UI5 Quickstart.md": "LiFileText"
 }
