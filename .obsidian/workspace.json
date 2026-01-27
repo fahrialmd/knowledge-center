@@ -11,10 +11,14 @@
             "id": "3fdf6fc110704348",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming/CAP/Java/002 CAP Java Hybrid Testing.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "002 CAP Java Hybrid Testing"
             }
           }
         ]
@@ -152,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Programming/CAP/Java/002 CAP Java Hybrid Testing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 002 CAP Java Hybrid Testing"
             }
           },
           {
@@ -191,14 +196,14 @@
   },
   "active": "29476f6b3da1c4e7",
   "lastOpenFiles": [
-    "Programming/ABAP/Syntax/Assets/Pasted image 20260127110054.png",
-    "Programming/ABAP/Syntax/Assets/Pasted image 20260127110101.png",
-    "Programming/ABAP/Syntax/Assets",
     "Programming/CAP/Java/001 CAP Java Quickstart.md",
     "Programming/CAP/Java/002 CAP Java Hybrid Testing.md",
     "Programming/ABAP/Syntax/003 ABAP Syntax VALUE...FOR.md",
     "Programming/ABAP/Syntax/002 ABAP Syntax COND.md",
     "Programming/ABAP/Syntax/001 ABAP Syntax FILTER.md",
+    "Programming/ABAP/Syntax/Assets/Pasted image 20260127110054.png",
+    "Programming/ABAP/Syntax/Assets/Pasted image 20260127110101.png",
+    "Programming/ABAP/Syntax/Assets",
     "Programming/ABAP/Syntax/Assets/Pasted image 20260127110942.png",
     "Programming/ABAP/Syntax/Assets/Pasted image 20260127110936.png",
     "Programming/ABAP/Syntax/Assets/Pasted image 20260127110934.png",
