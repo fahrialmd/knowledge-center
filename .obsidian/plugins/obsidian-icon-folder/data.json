@@ -49,7 +49,6 @@
   "Programming/ABAP/Syntax": "LiFolder",
   "Programming/ABAP/Syntax/001 ABAP Syntax FILTER.md": "LiFileText",
   "Programming/ABAP/Syntax/002 ABAP Syntax COND.md": "LiFileText",
-  "Programming/ABAP/Syntax/003 ABAP Syntax.md": "LiFileText",
   "Programming/CAP/Java/001 CAP Java Quickstart.md": "LiFileText",
   "Programming/CAP/Java/002 CAP Java Hybrid Testing.md": "LiFileText",
   "Programming/ABAP/Smartforms": "LiFolder",
@@ -61,5 +60,16 @@
   "Programming/ABAP/Smartforms/002 Smartforms Smartstyle.md": "LiFileText",
   "Programming/ABAP/Smartforms/001 Smartforms Overview.md": "LiFileText",
   "Programming/ABAP/Smartforms/003 Smartforms Start.md": "LiFileText",
-  "Programming/ABAP/Smartforms/Assets": "LiFolder"
+  "Programming/ABAP/Smartforms/Assets": "LiFolder",
+  "Programming/ABAP/Smartforms/004 Smartforms Form Interface.md": "LiFileText",
+  "Programming/ABAP/Smartforms/005 Smartforms Global Data.md": "LiFileText",
+  "Programming/ABAP/Smartforms/006 Smartforms Types.md": "LiFileText",
+  "Programming/ABAP/Smartforms/007 Smartforms Field Symbols.md": "LiFileText",
+  "Programming/ABAP/Smartforms/008 Smartforms Initialization.md": "LiFileText",
+  "Programming/ABAP/Smartforms/009 Smartforms Form Routines.md": "LiFileText",
+  "Programming/ABAP/Smartforms/010 Smartforms Currency or Quantities Field.md": "LiFileText",
+  "Programming/ABAP/Smartforms/011 Smartforms Pages and Windows.md": "LiFileText",
+  "Programming/ABAP/Smartforms/012 Smartforms Window's Template.md": "LiFileText",
+  "Programming/ABAP/Syntax/003 ABAP Syntax VALUE...FOR.md": "LiFileText",
+  "Programming/ABAP/Syntax/Assets": "LiLaptopMinimal"
 }

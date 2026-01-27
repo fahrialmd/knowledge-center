@@ -1,3 +1,4 @@
+#CAP #CAP-JAVA #Node #CDS #Java #Quickstart
 # Purpose
 Create a best practice and deployment-ready CAP Java project using simple steps
 # Reference

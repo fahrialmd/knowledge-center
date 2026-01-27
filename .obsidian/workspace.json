@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "14536286ce6fa5d1",
+        "id": "8f64b5c9fd1fffc8",
         "type": "tabs",
         "children": [
           {
-            "id": "988fbd5b717e92eb",
+            "id": "3fdf6fc110704348",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/ABAP/Smartforms/003 Smartforms Start.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "003 Smartforms Start"
-            }
-          },
-          {
-            "id": "514010a77507df3a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Programming/ABAP/Smartforms/Assets/Pasted image 20260127091242.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260127091242"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Filter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/ABAP/Smartforms/Assets/Pasted image 20260127091242.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20260127091242"
+              "title": "Outline"
             }
           },
           {
@@ -207,8 +189,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7851e74c9d699c96",
+  "active": "29476f6b3da1c4e7",
   "lastOpenFiles": [
+    "Programming/ABAP/Syntax/Assets/Pasted image 20260127110054.png",
+    "Programming/ABAP/Syntax/Assets/Pasted image 20260127110101.png",
+    "Programming/ABAP/Syntax/Assets",
+    "Programming/CAP/Java/001 CAP Java Quickstart.md",
+    "Programming/CAP/Java/002 CAP Java Hybrid Testing.md",
+    "Programming/ABAP/Syntax/003 ABAP Syntax VALUE...FOR.md",
+    "Programming/ABAP/Syntax/002 ABAP Syntax COND.md",
+    "Programming/ABAP/Syntax/001 ABAP Syntax FILTER.md",
+    "Programming/ABAP/Syntax/Assets/Pasted image 20260127110942.png",
+    "Programming/ABAP/Syntax/Assets/Pasted image 20260127110936.png",
+    "Programming/ABAP/Syntax/Assets/Pasted image 20260127110934.png",
+    "Programming/ABAP/Smartforms/Assets/Pasted image 20260127091242.png",
     "Programming/ABAP/Smartforms/012 Smartforms Window's Template.md",
     "Programming/ABAP/Smartforms/011 Smartforms Pages and Windows.md",
     "Programming/ABAP/Smartforms/010 Smartforms Currency or Quantities Field.md",
@@ -225,36 +219,23 @@
     "Programming/ABAP/Smartforms/Assets/Pasted image 20260127093729.png",
     "Programming/ABAP/Smartforms/Assets/Pasted image 20260127091403.png",
     "Programming/ABAP/Smartforms/Assets/Pasted image 20260127091356.png",
-    "Programming/ABAP/Smartforms/Assets/Pasted image 20260127091304.png",
-    "Programming/ABAP/Smartforms/Assets/Pasted image 20260127091256.png",
-    "Programming/ABAP/Smartforms/Assets/Pasted image 20260127091253.png",
-    "Programming/ABAP/Smartforms/Assets/Pasted image 20260127091242.png",
-    "Programming/ABAP/Smartforms/Assets/Pasted image 20260126135537.png",
     "Programming/ABAP/Smartforms/Assets",
-    "Programming/ABAP/Smartforms/Assets/Pasted image 20260126102408.png",
     "003 Smartforms.md",
     "Programming/UI5/001 UI5 Quickstart.md",
     "Programming/000 Template.md",
-    "Programming/CAP/Java/002 CAP Java Hybrid Testing.md",
-    "Programming/CAP/Java/001 CAP Java Quickstart.md",
     "Programming/ABAP/ALV/006 ALV Row Selection.md",
     "Programming/ABAP/ALV/001 ALV Quickstart.md",
     "Programming/ABAP/ALV/005 ALV Toolbar Button Event.md",
     "Programming/ABAP/ALV/004 ALV Hotspot Event.md",
     "Programming/ABAP/ALV/003 ALV Aggregations.md",
-    "Programming/ABAP/ALV/002 ALV Column Customization.md",
     "Programming/UI5/Freestyle",
     "Programming/UI5/List Page",
     "Programming/UI5/Assets/Untitled",
     "Programming/UI5/Assets",
     "Programming/UI5",
-    "Programming/ABAP/Syntax/001 ABAP Syntax FILTER.md",
-    "Programming/ABAP/Syntax/003 ABAP Syntax.md",
-    "Programming/ABAP/Syntax/002 ABAP Syntax COND.md",
     "Programming/ABAP/Smartforms",
     "Programming/ABAP/Syntax",
     "Programming/CAP/Java",
-    "Programming/CAP/Assets",
     "Untitled.canvas"
   ]
 }

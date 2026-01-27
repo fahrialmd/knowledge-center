@@ -1,5 +1,0 @@
-# Purpose
-
-# Reference
-# Implementation
-# Result
