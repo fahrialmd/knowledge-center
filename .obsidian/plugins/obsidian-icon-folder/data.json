@@ -57,5 +57,9 @@
   "Programming/UI5/Assets": "LiLaptopMinimal",
   "Programming/UI5/List Page": "LiFolder",
   "Programming/UI5/Freestyle": "LiFolder",
-  "Programming/UI5/001 UI5 Quickstart.md": "LiFileText"
+  "Programming/UI5/001 UI5 Quickstart.md": "LiFileText",
+  "Programming/ABAP/Smartforms/002 Smartforms Smartstyle.md": "LiFileText",
+  "Programming/ABAP/Smartforms/001 Smartforms Overview.md": "LiFileText",
+  "Programming/ABAP/Smartforms/003 Smartforms Start.md": "LiFileText",
+  "Programming/ABAP/Smartforms/Assets": "LiFolder"
 }
