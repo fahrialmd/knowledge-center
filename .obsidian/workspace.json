@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/ABAP/Syntax/002 ABAP Syntax COND.md",
-                "mode": "source",
+                "file": "Programming/ABAP/ALV/006 ALV Row Selection.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002 ABAP Syntax COND"
+              "title": "006 ALV Row Selection"
             }
           }
         ]
@@ -196,10 +196,10 @@
   },
   "active": "3fdf6fc110704348",
   "lastOpenFiles": [
+    "Programming/ABAP/Syntax/002 ABAP Syntax COND.md",
     "Programming/CAP/Java/002 CAP Java Hybrid Testing.md",
     "Programming/CAP/Java/001 CAP Java Quickstart.md",
     "Programming/ABAP/Syntax/003 ABAP Syntax VALUE...FOR.md",
-    "Programming/ABAP/Syntax/002 ABAP Syntax COND.md",
     "Programming/ABAP/Syntax/001 ABAP Syntax FILTER.md",
     "Programming/ABAP/Syntax/Assets/Pasted image 20260127110054.png",
     "Programming/ABAP/Syntax/Assets/Pasted image 20260127110101.png",
